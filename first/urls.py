@@ -14,6 +14,10 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
     tom holland
     henry danger
+
+    bloom
+    ben ten
+    dora
 """
 from django.contrib import admin
 from django.urls import path
